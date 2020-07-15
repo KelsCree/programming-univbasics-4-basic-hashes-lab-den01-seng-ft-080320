@@ -4,8 +4,8 @@ end
 
 def my_hash
   new = {
-    hat => "tophat"
-    shirt => "button down" 
+    :hat => "tophat",
+    :shirt => "button down" 
   }
   new
 end
