@@ -19,6 +19,6 @@ end
 
 def id_hash_generator(number)
   new = {
-    number = 21
+    number => 21
   }
 end
